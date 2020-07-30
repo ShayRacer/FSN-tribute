@@ -11,6 +11,10 @@ header{
 
 }
 
+h1,h2{
+	font-family: 'Carrois Gothic SC', sans-serif;
+}
+
 header h1{
 	color: black;
 
